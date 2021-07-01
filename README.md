@@ -17,7 +17,7 @@ Science, Satellite Image Analysis, Community-Based Environmental Research, Resea
 Geospatial & Research Experience
 ----------
 
-**Project Lead**, NASA DEVELOP National Program | SSAI, Inc. // 
+**Project Lead**, [NASA DEVELOP National Program](https://develop.larc.nasa.gov/) | [SSAI, Inc.](https://www.ssaihq.com/develop/Careers.aspx) // 
 Fort Collins, CO  
 Jan 2021 - Apr 2021
   
@@ -26,7 +26,7 @@ sensing with citizen science ground observations to monitor Colorado River Basin
 * Facilitated communications between team, supervisor, science advisors, and project partners to maintain
 project timeline and ensure deliverable and project goals were met  
 
-**Team Member**, NASA DEVELOP National Program | SSAI, Inc. // 
+**Team Member**, [NASA DEVELOP National Program](https://develop.larc.nasa.gov/) | [SSAI, Inc.](https://www.ssaihq.com/develop/Careers.aspx) // 
 Goddard Space Flight Center, MD  
 Sept 2020 - Nov 2020
 
